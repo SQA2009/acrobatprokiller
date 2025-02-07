@@ -27,7 +27,7 @@ git clone https://github.com/SQA2009/acrobatprokiller.git
 cd acrobatprokiller
 ```
 ```bash
-[git clone](https://github.com/SQA2009/acrobatprokiller/releases) 
+git clone https://github.com/SQA2009/acrobatprokiller/releases
 ```
 
 ### 2. Install Required Packages  
