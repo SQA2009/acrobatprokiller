@@ -1,5 +1,9 @@
 # Acrobat Pro Killer
 
+## Acknowledgements
+
+This code was *lovingly* crafted with the help of **ChatGPT**. Yes, an AI helped make this. So if something doesn’t work, feel free to blame the robots. But if it *does* work? Yeah, that was totally on purpose.
+
 **Acrobat Pro Killer** is the *ultimate* PDF viewer and editor you never knew you needed—because who doesn't want to *destroy* Adobe Acrobat Pro with a Python script? Built with **PyMuPDF** for handling PDFs and **PyQt5** for a *questionably modern* GUI, this tool is designed to be a *sleek* (or at least *functional*) alternative to the bloated giants of the PDF world.
 
 ---
@@ -15,12 +19,15 @@
 
 ## Installation
 
-### 1. Clone the Repository  
+### 1. Clone the Repository (for the full experience) or the lastest release
 Because downloading from GitHub is half the battle:
 
 ```bash
 git clone https://github.com/SQA2009/acrobatprokiller.git
 cd acrobatprokiller
+```
+```bash
+[git clone](https://github.com/SQA2009/acrobatprokiller/releases) 
 ```
 
 ### 2. Install Required Packages  
@@ -94,8 +101,4 @@ Feel like making this mess better? Go ahead, fork it. Submit a pull request. Or 
 
 No license file yet. Use it, don’t use it—I'm not here to police your life choices.
 
----
 
-## Acknowledgements
-
-This code was *lovingly* crafted with the help of **ChatGPT**. Yes, an AI helped make this. So if something doesn’t work, feel free to blame the robots. But if it *does* work? Yeah, that was totally on purpose.
