@@ -51,7 +51,7 @@ python acrobatprokiller.py
 
 ---
 
-## Example Tutorial
+## Tutorial
 
 ### Step-by-Step Guide:
 
@@ -64,7 +64,7 @@ python acrobatprokiller.py
 2. **Launch the Script:**  
    Because double-clicking is overrated:
    ```bash
-   python acrobat_pro_killer.py
+   python acrobatprokiller.py
    ```
 
 3. **Open a PDF File:**  
